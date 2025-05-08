@@ -1,5 +1,4 @@
 # YOLOv4 Real-Time Object Detection
-
 This project implements real-time object detection using the YOLOv4 model and OpenCV. It includes a basic Python script for object detection via webcam and a GUI-based application built with Tkinter.
 
 ## 🧠 Overview
@@ -9,7 +8,6 @@ This project implements real-time object detection using the YOLOv4 model and Op
 - **Dataset:** COCO (Common Objects in Context)
 
 ## 🚀 Features
-
 - Live object detection with bounding boxes and class labels
 - GUI interface for starting/stopping detection
 - Easy to run and extend
@@ -50,8 +48,12 @@ python object_detection.py
 python object_detection_app.py
 
 Press Q to stop detection.
-|
-|
-|
+
+
+
 This project was developed as part of my Semester 3 coursework for the Core Computer Science subject. It gave me hands-on experience with real-time object detection using deep learning models like YOLOv4, as well as working with OpenCV and building a GUI using Tkinter. Through this project, I gained a deeper understanding of how machine learning models interact with real-world input like live video streams, and how to deploy them in user-friendly interfaces.
-     — Yazhini Raja
+— Yazhini Raja
+
+
+# Object-Detection-Using-YOLO
+Real-time object detection using YOLOv4 and OpenCV in Python. Includes both command-line and GUI (Tkinter) apps to detect objects via webcam using pretrained COCO weights. Great for learning computer vision and deep learning basics.
