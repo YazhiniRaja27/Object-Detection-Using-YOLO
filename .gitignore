@@ -1,0 +1,9 @@
+# Ignore large weights file
+yolov4.weights
+
+# Python cache files (already included if you chose Python .gitignore on GitHub)
+__pycache__/
+*.pyc
+
+# Optional: Ignore other temporary files
+*.log
